@@ -1,0 +1,14 @@
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\bin\Debug\DecorateurBouton.exe.config
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\bin\Debug\DecorateurBouton.exe
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\bin\Debug\DecorateurBouton.pdb
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.csprojResolveAssemblyReference.cache
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\MainWindow.g.cs
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\App.g.cs
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton_MarkupCompile.cache
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton_MarkupCompile.lref
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\MainWindow.baml
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.g.resources
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.Properties.Resources.resources
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.csproj.GenerateResource.Cache
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.exe
+d:\bibliotheque\documents\visual studio 2017\Projects\DecorateurBouton\DecorateurBouton\obj\Debug\DecorateurBouton.pdb
