@@ -1,0 +1,35 @@
+﻿<Window x:Class="DecorateurBouton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DecorateurBouton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="50*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="SuperBouton" Content="Super Bouton" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF5DBB32" />
+        <Grid Grid.Column="1" HorizontalAlignment="Center" Height="auto"  VerticalAlignment="Center" Width="auto">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock  Height="auto" Margin="10" TextWrapping="Wrap" TextAlignment="Center" Foreground="Blue"  Text="Decorateur"  VerticalAlignment="Center" Width="auto" FontSize="20" HorizontalAlignment="Center" Background="#FFC5C0C0"/>
+            <Button x:Name="BoutonDisparait" Content="Disparaît" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Margin="10" Click="BoutonDisparait_Click"/>
+            <Button x:Name="BoutonBouclier" Content="Bouclier" HorizontalAlignment="Center" Height="auto"  Grid.Row="2" VerticalAlignment="Center" Width="auto" Margin="10" Click="BoutonClignote_Click"/>
+            <Button x:Name="BoutonGrossis" Content="Grossis" HorizontalAlignment="Center" Height="auto" Margin="10" Grid.Row="3" VerticalAlignment="Center" Width="auto" Click="BoutonGrossis_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>
